@@ -1,0 +1,2 @@
+INSERT INTO usuario (nameu, fname, lname, phone, street, num1, num2, col, mun, est, cp, cor, usser, cont, lvl, estatus)
+VALUES ('$nameu', '$fname', '$lname', '$phone', '$street', '$num1', '$num2', '$col', '$mun', '$est', '$cp', '$cor', '$usser', '$cont', '$lvl', '$estatus')
